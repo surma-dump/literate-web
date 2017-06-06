@@ -1,0 +1,20 @@
+{
+  "name": "literate-web",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "gh:surma/literate-web"
+  },
+  "keywords": [],
+  "author": "Surma <surma@surma.link>",
+  "license": "MIT",
+  "devDependencies": {
+    "prismjs": "^1.6.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.6",
+    "mz": "^2.6.0"
+  }
+}
